@@ -1,0 +1,14 @@
+{
+    "name": "criography/mail-add-sender",
+    "description": "Adds a Sender header to every Wordpress outgoing email if it does not already have one.",
+    "type": "wordpress-plugin",
+    "license": "?",
+    "authors": [
+        {
+            "name": "Simon Lehmann",
+            "email": "simon@slashslash.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
