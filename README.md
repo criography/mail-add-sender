@@ -6,7 +6,9 @@ This small plugin is originally authored by [Simon Lehmann](https://github.com/s
 I'm adding here for so it can be pulled by Composer. 
 Happy to remove it if he opens it in his own repo.
 
-Author: Simon Lehmann
-Version: 1.0
-Author URI: http://www.slashslash.de/2013/04/properly-sending-mail-via-eximsendmail-from-wordpress-and-others/
+*****
+
+Author: Simon Lehmann  
+Version: 1.0   
+Author URI: http://www.slashslash.de/2013/04/properly-sending-mail-via-eximsendmail-from-wordpress-and-others/  
 Copyright 2013 Simon Lehmann
