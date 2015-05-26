@@ -1,6 +1,7 @@
 # Mail Add Sender
 
 Adds a Sender header to every outgoing Wordpress email if it does not already have one, to make it work with Exim and similar.
+This resolves following Wordpress issue: https://core.trac.wordpress.org/ticket/22837  
 
 This small plugin is originally authored by [Simon Lehmann](https://github.com/simonlmn).   
 I'm adding here for so it can be pulled by Composer.   
